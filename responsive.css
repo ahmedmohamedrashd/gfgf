@@ -1,0 +1,94 @@
+@media (min-width: 1200px) {
+  #toup {
+    right: 4%;
+  }
+  
+}
+@media (max-width: 1199px) {
+  #toup {
+    right: 3rem;
+  };
+  
+}
+@media (max-width: 991px) {
+  html {
+    font-size: 55%;
+  }
+  header {
+    padding: 2rem;
+    min-height: 6rem;
+    height: 6rem;  }
+  #toup {
+    right: 3rem;
+  }
+  
+}
+@media (max-width: 768px) {
+  html {
+    font-size: 55%;
+  }
+
+  .bubles {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  header nav {
+    display: block;
+    position: absolute;
+    top: 110%;
+    right: -150%;
+    background-color: var(--back);
+    width: 12rem;
+    height: fit-content;
+    text-align: center;
+  }
+  #itumes {
+    display: flex;
+  }
+  header nav > ul {
+    display: block;
+  }
+  header nav > ul li .sub {
+    top: 0;
+    left: -84%;
+    transition: all 0.5s linear;
+  }
+  header nav ul > li {
+    margin: 1rem 0;
+  }
+  header nav ul li > a {
+    display: block;
+    margin: 1rem 0;
+  }
+  header nav ul li > a {
+    display: block;
+    padding: 10px 0;
+  }
+  #toup {
+    right: 2rem;
+  }
+}
+@media (max-width: 450px) {
+  html {
+    font-size: 50%;
+  }
+  .all-movies .container .box h4 {
+    padding: 0 0;
+    margin: 0;
+  }
+  #toup {
+    right: 1rem;
+  }
+  .all-movies .container .box {
+    padding: 0.5rem 0 0.7rem;
+  }
+  .all-movies .container .box .img {
+    height: 22rem;
+  }
+  .all-movies .container {
+    grid-template-columns: repeat(auto-fill, minmax(131px, 1fr));
+    row-gap: 25px;
+    column-gap: 30px;
+  }
+}

@@ -1,0 +1,63 @@
+<div class="mega">
+                  <div class="menu">
+                    <img src="imgs/megamenu.png" alt="" />
+                  </div>
+                  <div class="cont">
+                    <ul class="mainmega main-2">
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="cont">
+                    <ul class="mainmega">
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                      <li>
+                        <a href="">
+                          <i class="far fa-comments fa-fw"></i>testmoiyal</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
